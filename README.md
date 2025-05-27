@@ -107,9 +107,5 @@ If you find a bug or want a new feature, feel free to [open an issue](https://gi
 
 ---
 
-## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
-
----
 
